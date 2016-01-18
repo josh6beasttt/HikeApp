@@ -1,0 +1,8 @@
+json/BaseJson.class
+json/get/HikeJson.class
+json/set/HikeJson.class
+json/get/PersonJson.class
+HikingSpots.class
+record/RecordGetter.class
+record/Record.class
+json/set/PersonJson.class
