@@ -2,6 +2,7 @@ package json.get;
 
 import json.BaseJson;
 
+@SuppressWarnings("unused")
 public class PersonJson extends BaseJson {
     private String firstName;
     private String lastName;

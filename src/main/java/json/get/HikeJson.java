@@ -3,7 +3,7 @@ package json.get;
 import json.BaseJson;
 
 @SuppressWarnings("unused")
-public class PersonJson extends BaseJson {
+public class HikeJson extends BaseJson {
     private double latitude;
     private double longitude;
     private String name;

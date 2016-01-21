@@ -1,4 +1,7 @@
 package json.update;
 
-public class PersonJson {
+import json.BaseJson;
+
+public class PersonJson extends BaseJson {
+
 }

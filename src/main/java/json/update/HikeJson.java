@@ -1,4 +1,7 @@
 package json.update;
 
-public class HikeJson {
+import json.BaseJson;
+
+public class HikeJson extends BaseJson {
+
 }

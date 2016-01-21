@@ -26,7 +26,7 @@ public class RecordGetter extends Record {
                 personJson.setLastName(result.getString(2));
                 personJson.setPicture(result.getString(3));
 
-                return personJson.toString();
+                return personJson.toJson();
             }
             return null;
         }
@@ -36,13 +36,13 @@ public class RecordGetter extends Record {
         final String sqlString = "SELECT latitude, longitude, hike.name, description FROM hike " +
                 "WHERE hike_id = ?";
 
-        try(Connection conn = getConnection();
-        PreparedStatement preparedStatement = conn.prepareStatement(sqlString)){
+        try (Connection conn = getConnection();
+             PreparedStatement preparedStatement = conn.prepareStatement(sqlString)) {
             preparedStatement.setString(1, hikeId);
 
             ResultSet result = preparedStatement.executeQuery();
 
-            if(result.next()){
+            if (result.next()) {
                 HikeJson hikeJson = new HikeJson();
 
                 hikeJson.setLatitude(result.getDouble(1));
@@ -50,7 +50,7 @@ public class RecordGetter extends Record {
                 hikeJson.setName(result.getString(3));
                 hikeJson.setDescription(result.getString(4));
 
-                return hikeJson.toString();
+                return hikeJson.toJson();
             }
         }
         return null;
