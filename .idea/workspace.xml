@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33815860-f39d-4d37-9154-3567dd4212f7" name="Default" comment="">
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-=======
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/json/update/HikeJson.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/json/update/PersonJson.java" />
@@ -16,7 +12,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/json/get/HikeJson.java" afterPath="$PROJECT_DIR$/src/main/java/json/get/HikeJson.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/json/get/PersonJson.java" afterPath="$PROJECT_DIR$/src/main/java/json/get/PersonJson.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/record/RecordGetter.java" afterPath="$PROJECT_DIR$/src/main/java/record/RecordGetter.java" />
->>>>>>> Travis CI pass and airport upgrades
     </list>
     <ignored path="HikingSpots.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,8 +29,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-=======
   <component name="DatabaseView">
     <option name="GROUP_SCHEMA" value="true" />
     <option name="GROUP_CONTENTS" value="false" />
@@ -43,34 +36,12 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
   </component>
->>>>>>> Travis CI pass and airport upgrades
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="HikingSpots" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseJson.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/json/BaseJson.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-=======
       <file leaf-file-name="RecordGetter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/record/RecordGetter.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,22 +51,11 @@
                 <element signature="imports" expanded="true" />
                 <marker date="1453388905272" expanded="true" signature="342:432" placeholder="SELECT first..person..." />
                 <marker date="1453388905272" expanded="true" signature="1170:1269" placeholder="SELECT latit..hike..." />
->>>>>>> Travis CI pass and airport upgrades
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-      <file leaf-file-name="PersonJson.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/json/get/PersonJson.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-              <folding>
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-=======
       <file leaf-file-name="RecordSetter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/record/RecordSetter.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,38 +65,11 @@
                 <element signature="imports" expanded="true" />
                 <marker date="1453265322067" expanded="true" signature="344:395" placeholder="INSERT INTO person..." />
                 <marker date="1453265322067" expanded="true" signature="969:1020" placeholder="INSERT INTO hike..." />
->>>>>>> Travis CI pass and airport upgrades
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-      <file leaf-file-name="PersonJson.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/json/set/PersonJson.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HikeJson.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/json/get/HikeJson.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-              <folding>
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-                <element signature="e#549#550#0" expanded="true" />
-=======
       <file leaf-file-name="HikingSpots.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/HikingSpots.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -144,73 +77,31 @@
               <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
->>>>>>> Travis CI pass and airport upgrades
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="HikeJson.java" pinned="false" current-in-tab="false">
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-        <entry file="file://$PROJECT_DIR$/src/main/java/json/set/HikeJson.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-=======
         <entry file="file://$PROJECT_DIR$/src/main/java/json/update/HikeJson.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
->>>>>>> Travis CI pass and airport upgrades
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-      <file leaf-file-name="RecordGetter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/record/RecordGetter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1452908694343" expanded="true" signature="342:432" placeholder="SELECT first..person..." />
-                <marker date="1452908694343" expanded="true" signature="1172:1271" placeholder="SELECT latit..hike..." />
-              </folding>
-=======
       <file leaf-file-name="PersonJson.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/json/update/PersonJson.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
->>>>>>> Travis CI pass and airport upgrades
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-      <file leaf-file-name="Record.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/record/Record.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HikingSpots.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HikingSpots.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7989556">
-              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-=======
       <file leaf-file-name="RecordUpdater.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/record/RecordUpdater.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -219,7 +110,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1453266978458" expanded="true" signature="331:381" placeholder="UPDATE perso..." />
->>>>>>> Travis CI pass and airport upgrades
               </folding>
             </state>
           </provider>
@@ -247,13 +137,6 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/json/set/PersonJson.java" />
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-        <option value="$PROJECT_DIR$/src/main/java/json/get/HikeJson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/json/set/HikeJson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/json/BaseJson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/record/Record.java" />
-        <option value="$PROJECT_DIR$/src/main/java/json/get/PersonJson.java" />
-=======
         <option value="$PROJECT_DIR$/src/main/java/json/set/HikeJson.java" />
         <option value="$PROJECT_DIR$/src/main/java/json/BaseJson.java" />
         <option value="$PROJECT_DIR$/src/main/java/record/Record.java" />
@@ -264,7 +147,6 @@
         <option value="$PROJECT_DIR$/src/main/java/json/update/HikeJson.java" />
         <option value="$PROJECT_DIR$/src/main/java/json/update/PersonJson.java" />
         <option value="$PROJECT_DIR$/src/main/java/record/RecordUpdater.java" />
->>>>>>> Travis CI pass and airport upgrades
         <option value="$PROJECT_DIR$/src/main/java/record/RecordGetter.java" />
         <option value="$PROJECT_DIR$/src/main/java/HikingSpots.java" />
       </list>
@@ -282,8 +164,6 @@
       </MavenGeneralSettings>
     </option>
   </component>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-=======
   <component name="MavenProjectNavigator">
     <treeState>
       <PATH>
@@ -294,7 +174,6 @@
       </PATH>
     </treeState>
   </component>
->>>>>>> Travis CI pass and airport upgrades
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -326,11 +205,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-=======
       <pane id="Scratches" />
       <pane id="Scope" />
->>>>>>> Travis CI pass and airport upgrades
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -360,8 +236,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-=======
               <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -376,7 +250,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
->>>>>>> Travis CI pass and airport upgrades
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -499,8 +372,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-=======
               <option name="myItemId" value="update" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -531,7 +402,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
->>>>>>> Travis CI pass and airport upgrades
               <option name="myItemId" value="set" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -568,11 +438,6 @@
           </PATH>
         </subPane>
       </pane>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-      <pane id="Scope" />
-      <pane id="Scratches" />
-=======
->>>>>>> Travis CI pass and airport upgrades
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -582,19 +447,12 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-=======
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
->>>>>>> Travis CI pass and airport upgrades
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-  <component name="RunManager">
-=======
   <component name="RunManager" selected="Application.HikingSpots">
     <configuration default="false" name="HikingSpots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -613,7 +471,6 @@
       </envs>
       <method />
     </configuration>
->>>>>>> Travis CI pass and airport upgrades
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -1024,8 +881,6 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-=======
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Application.HikingSpots" />
     </list>
@@ -1034,7 +889,6 @@
         <item index="0" class="java.lang.String" itemvalue="Application.HikingSpots" />
       </list>
     </recent_temporary>
->>>>>>> Travis CI pass and airport upgrades
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -1048,34 +902,13 @@
       <updated>1452840825189</updated>
       <workItem from="1452840829932" duration="5834000" />
       <workItem from="1452910287469" duration="1584000" />
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-=======
       <workItem from="1452912148129" duration="1180000" />
       <workItem from="1453264036056" duration="2984000" />
       <workItem from="1453388243394" duration="962000" />
->>>>>>> Travis CI pass and airport upgrades
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-    <option name="totallyTimeSpent" value="7418000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-=======
     <option name="totallyTimeSpent" value="12544000" />
   </component>
   <component name="ToolWindowManager">
@@ -1094,28 +927,17 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17473525" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
->>>>>>> Travis CI pass and airport upgrades
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-=======
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
->>>>>>> Travis CI pass and airport upgrades
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-=======
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
->>>>>>> Travis CI pass and airport upgrades
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1130,8 +952,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/record/RecordGetter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1193,7 +1013,6 @@
         </state>
       </provider>
     </entry>
->>>>>>> Travis CI pass and airport upgrades
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1206,14 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
-=======
->>>>>>> Travis CI pass and airport upgrades
         </state>
       </provider>
     </entry>
@@ -1222,12 +1033,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-=======
             <element signature="e#42#69#0" expanded="true" />
->>>>>>> Travis CI pass and airport upgrades
           </folding>
         </state>
       </provider>
@@ -1236,8 +1042,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-=======
         </state>
       </provider>
     </entry>
@@ -1291,26 +1095,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
->>>>>>> Travis CI pass and airport upgrades
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-    <entry file="file://$PROJECT_DIR$/src/main/java/json/get/HikeJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-          <folding>
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/json/BaseJson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1324,13 +1112,10 @@
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
             <element signature="e#42#69#0" expanded="true" />
->>>>>>> Travis CI pass and airport upgrades
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/json/set/PersonJson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1338,15 +1123,10 @@
         </state>
       </provider>
     </entry>
->>>>>>> Travis CI pass and airport upgrades
     <entry file="file://$PROJECT_DIR$/src/main/java/json/set/HikeJson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-          <folding />
-=======
->>>>>>> Travis CI pass and airport upgrades
         </state>
       </provider>
     </entry>
@@ -1356,13 +1136,8 @@
           <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-            <marker date="1452908694343" expanded="true" signature="342:432" placeholder="SELECT first..person..." />
-            <marker date="1452908694343" expanded="true" signature="1172:1271" placeholder="SELECT latit..hike..." />
-=======
             <marker date="1453388905272" expanded="true" signature="342:432" placeholder="SELECT first..person..." />
             <marker date="1453388905272" expanded="true" signature="1170:1269" placeholder="SELECT latit..hike..." />
->>>>>>> Travis CI pass and airport upgrades
           </folding>
         </state>
       </provider>
@@ -1395,8 +1170,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/json/BaseJson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1414,30 +1187,10 @@
         </state>
       </provider>
     </entry>
->>>>>>> Travis CI pass and airport upgrades
     <entry file="file://$PROJECT_DIR$/src/main/java/json/set/PersonJson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/json/get/HikeJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-          <folding>
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-=======
         </state>
       </provider>
     </entry>
@@ -1456,38 +1209,20 @@
             <element signature="imports" expanded="true" />
             <marker date="1453388905272" expanded="true" signature="342:432" placeholder="SELECT first..person..." />
             <marker date="1453388905272" expanded="true" signature="1170:1269" placeholder="SELECT latit..hike..." />
->>>>>>> Travis CI pass and airport upgrades
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-    <entry file="file://$PROJECT_DIR$/src/main/java/json/BaseJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/record/Record.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
->>>>>>> Travis CI pass and airport upgrades
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-    <entry file="file://$PROJECT_DIR$/src/main/java/json/set/HikeJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/HikingSpots.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1502,16 +1237,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
->>>>>>> Travis CI pass and airport upgrades
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-    <entry file="file://$PROJECT_DIR$/src/main/java/record/Record.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-=======
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1522,7 +1251,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/record/Record.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7350649">
->>>>>>> Travis CI pass and airport upgrades
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1530,15 +1258,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-    <entry file="file://$PROJECT_DIR$/src/main/java/json/get/PersonJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-=======
     <entry file="file://$PROJECT_DIR$/src/main/java/json/set/PersonJson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1612,7 +1331,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1453266978458" expanded="true" signature="331:381" placeholder="UPDATE perso..." />
->>>>>>> Travis CI pass and airport upgrades
           </folding>
         </state>
       </provider>
@@ -1620,32 +1338,19 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/record/RecordGetter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1452908694343" expanded="true" signature="342:432" placeholder="SELECT first..person..." />
-            <marker date="1452908694343" expanded="true" signature="1172:1271" placeholder="SELECT latit..hike..." />
-=======
           <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1453388905272" expanded="true" signature="342:432" placeholder="SELECT first..person..." />
             <marker date="1453388905272" expanded="true" signature="1170:1269" placeholder="SELECT latit..hike..." />
->>>>>>> Travis CI pass and airport upgrades
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HikingSpots.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< 9d0941cf29db1a80cb4580d9c5a82cc5c2844784
-        <state vertical-scroll-proportion="0.7989556">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-=======
         <state vertical-scroll-proportion="-2.1350648">
           <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
->>>>>>> Travis CI pass and airport upgrades
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
