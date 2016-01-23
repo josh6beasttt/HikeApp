@@ -2,11 +2,12 @@ package json.get;
 
 import json.BaseJson;
 
+@SuppressWarnings("unused")
 public class PersonJson extends BaseJson {
     private String firstName;
     private String lastName;
     private String picture;
-    
+
     public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
