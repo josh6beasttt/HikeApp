@@ -118,3 +118,6 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 # End of https://www.gitignore.io/api/intellij+iml,java,gradle,git,macos
+
+### Heroku Local Web config ###
+.env
