@@ -10,7 +10,7 @@ import static spark.Spark.*;
 
 public class HikingSpots {
     public static void main(String[] args) {
-        String portNumber = System.getenv("port");
+        String portNumber = System.getenv("PORT");
         port(Integer.parseInt(portNumber));
 
         //TODO: Add authentication for users and app and also way to get ID whether it be through an API or credentials provided by user
